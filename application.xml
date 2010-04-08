@@ -5,10 +5,10 @@
 	<!-- AIR Application Descriptor File. See http://www.adobe.com/go/learn_air_1.0_application_descriptor_en. -->
 	<id>com.erikzaadi.com.AirOnGithub</id>
 	<name>Air on Github Example</name>
-	<version>1.0</version>
+	<version>2.0</version>
 	<filename>Air on Github Example</filename>
 	<description>
-		This is a sample of how to host an Air application with automatic updates on Github
+		This is a version that's been automatically updated from Github!
 	</description>
 	<copyright>Copyright 2010, erikzaadi.com</copyright>
 	<initialWindow>
