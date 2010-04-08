@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
+	<version>2.0</version>
+	<url>http://github.com/downloads/erikzaadi/AirOnGithub/AirOnGithub-2.0.air</url>
+	<description><![CDATA[
+This would be a good place to put release notes etc
+  ]]></description>
+</update>
